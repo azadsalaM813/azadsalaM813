@@ -1,4 +1,5 @@
-# 👋 Hi, I'm azadsalaM813
+# 👋 Hi, I'm azad.salam.hahji
+
 
 Welcome to my GitHub profile!  
 I'm a passionate professional working in **cybersecurity** and also a **full stack developer**. I love building secure, scalable applications and solving challenging problems in tech.
