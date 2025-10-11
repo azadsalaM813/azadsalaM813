@@ -1,4 +1,4 @@
-# 👋 Hi, I'm azad.salam.hahji
+# 👋 Hi, I'm azad.salam.haji
 
 
 Welcome to my GitHub profile!  
