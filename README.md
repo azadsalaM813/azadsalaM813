@@ -4,7 +4,7 @@ digital world safer, one system at a time.
 
 
 
-https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3lsZnZoYnVic214OWx3bnhreWJha2M4MjZhZmphczdoZnE0aWJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YjUkCsHT70mn84/giphy.gif
+![Project Banner](https://your-image-url-here.com/image.png)
 
 
 
